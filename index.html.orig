@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Git merge conflict</title>
+<body>
+<<<<<<< HEAD
+<h1>Git is a version control system - Updated by User1</h1>
+=======
+<h1>Git is a version control system - Updated by user 2</h1>
+>>>>>>> fda555c (index.html is updated by user2)
+</body>
+</html>
